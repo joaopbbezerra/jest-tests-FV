@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/jest-tests-FV.iml
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/sonarlint/issuestore/index.pb
